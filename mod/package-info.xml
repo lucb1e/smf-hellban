@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE package-info SYSTEM "http://www.simplemachines.org/xml/package-info">
+
+<package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
+	<id>lucb1e:hellban</id>
+	<name>Mod that enables hellbanning features on SMF (aka ghost members)</name>
+	<version>0.1</version>
+	<type>modification</type>
+
+	<!-- Earlier than 1.1.18 probably works too, but this hopefully encourages admins to do the upgrade if they haven't already -->
+	<install for="1.1.18-1.1.999">
+		<modification type="file" format="xml">install-1.1.xml</modification>
+		<redirect url="$scripturl?action=ban;sa=hellban" timeout="6000"></redirect>
+	</install>
+
+</package-info>
