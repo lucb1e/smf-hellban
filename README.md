@@ -11,10 +11,10 @@ Notes to self:
 
 3. Hellposts are visible to the poster of the post, admins, and optionally: to guests, and/or other hellbaned users.
 
-4. 'The poster of the post' can be (can be changed in settings):
-  4a. His useraccount
-  4b. Anyone using his last IP
-  4c. Anyone using any of the IPs he used
+4. 'The poster of the post' can be (can be changed in settings):  
+  4a. His useraccount  
+  4b. Anyone using his last IP  
+  4c. Anyone using any of the IPs he used  
 
 5. Settings are global to all hellbans, and a change of settings is always retroactive.
 
