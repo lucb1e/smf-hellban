@@ -1,4 +1,4 @@
-*Early work-in-progress. Nothing much to see yet.*
+*Early work-in-progress. Nothing much to see yet. Note that hellbannig is also known as 'ghost members' or 'ghost posting'.*
 
 ---
 
