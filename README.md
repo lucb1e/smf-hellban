@@ -20,6 +20,8 @@ Notes to self:
 
 6. Toggling the hellban of a useraccount can be done from the user's profile page by anyone allowed to ban users.
 
+7. Settings located in adminpanel at bans -> hellban
+
 ---
 
 Implementation status:  
@@ -29,3 +31,4 @@ Implementation status:
 4. none  
 5. not applicable  
 6. none  
+7. none  
