@@ -1,4 +1,6 @@
-Early work-in-progress. Nothing much to see yet.
+*Early work-in-progress. Nothing much to see yet.*
+
+---
 
 Notes to self:
 
@@ -18,8 +20,9 @@ Notes to self:
 
 6. Toggling the hellban of a useraccount can be done from the user's profile page by anyone allowed to ban users.
 
+---
 
-Implementation status:
+Implementation status:  
 1. none  
 2. none  
 3. none  
