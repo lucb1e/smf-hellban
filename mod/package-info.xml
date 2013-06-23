@@ -3,7 +3,7 @@
 
 <package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
 	<id>lucb1e:hellban</id>
-	<name>Mod that enables hellbanning features on SMF (aka ghost members)</name>
+	<name>Mod that enables hellbanning features on SMF</name>
 	<version>0.1</version>
 	<type>modification</type>
 

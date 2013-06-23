@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE modification SYSTEM "http://www.simplemachines.org/xml/modification">
+<modification xmlns="http://www.simplemachines.org/xml/modification" xmlns:smf="http://www.simplemachines.org/">
+	<id>lucb1e:hellban</id>
+	<version>0.1</version>
+
+	<file name="$sourcedir/Filename.php">
+		<!-- A seach operation, with search rules and code to modify the file with. -->
+		<operation>
+			<!-- Search for this text before the code we add.  You can also search for after, and the end of the file. -->
+			<search position="before"><![CDATA[
+Search for some code to add stuff after.
+]]></search>
+			<!-- Add this text when we find it.  Note that it's on it's own line on purpose, and the CDATA keeps things clean. -->
+			<add><![CDATA[
+This is what to add.
+]]></add>
+		</operation>
+
+		<operation>
+			<search position="replace"><![CDATA[
+Another search operation?
+]]></search>
+			<add><![CDATA[
+Yes, another.  This time, replacing!
+]]></add>
+		</operation>
+	</file>
+
+</modification>
